@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/0162-find-peak-element) |
 | [1331-rank-transform-of-an-array](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/0162-find-peak-element) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
