@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/0455-assign-cookies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Greedy
 |  |
 | ------- |
