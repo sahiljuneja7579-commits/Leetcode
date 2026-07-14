@@ -6,13 +6,12 @@ public:
         int l=0,h=n-1;
         while(l<=h){
             int mid=(l+h)/2;
-            mini=min(mini,nums[mid]);
-            if(nums[l]<nums[mid]){
+            if(nums[l]<=nums[mid]){
                 mini=min(mini,nums[l]);
                 l=mid+1;
             }
             else{
-                mini=min(mini,nums[h]);
+                mini=min(mini,nums[mid]);
                 h=mid-1;
             }
         }
