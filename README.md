@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/0495-teemo-attacking) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0867-transpose-matrix](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1630-arithmetic-subarrays](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/1630-arithmetic-subarrays) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
