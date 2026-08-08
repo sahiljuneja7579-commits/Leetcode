@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1630-arithmetic-subarrays](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/1630-arithmetic-subarrays) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/0274-h-index) |
+## Math
+|  |
+| ------- |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/sahiljuneja7579-commits/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 <!---LeetCode Topics End-->
